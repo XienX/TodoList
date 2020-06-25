@@ -5,7 +5,7 @@ public class MyTest {
 
     @Test
     public void TodoTestInput1 () {
-        ToDoList list = new ToDoList();
+        TodoList list = new TodoList();
 
         /*
         *中间调添加、删除、改状态的方法
